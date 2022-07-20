@@ -1,0 +1,23 @@
+/Vuejs Frontend/.DS_Store
+/Vuejs Frontend/node_modules
+/dist
+
+
+# local env files
+/Vuejs Frontend/.env.local
+/Vuejs Frontend/.env.*.local
+
+# Log files
+/Vuejs Frontend/npm-debug.log*
+/Vuejs Frontend/yarn-debug.log*
+/Vuejs Frontend/yarn-error.log*
+/Vuejs Frontend/pnpm-debug.log*
+
+# Editor directories and files
+/Vuejs Frontend/.idea
+/Vuejs Frontend/.vscode
+/Vuejs Frontend/*.suo
+/Vuejs Frontend/*.ntvs*
+/Vuejs Frontend/*.njsproj
+/Vuejs Frontend/*.sln
+/Vuejs Frontend/*.sw?
